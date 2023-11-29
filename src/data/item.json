@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Bag",
+        "price":1000.99,
+        "imgURL":"https://i.pinimg.com/564x/ef/26/f6/ef26f69e99a422521e19b4950c949e04.jpg"
+    },
+    {
+        "id":2,
+        "name":"Lipstick",
+        "price":300.99,
+        "imgURL":"https://i.pinimg.com/564x/53/ad/65/53ad65f47c5c98e643febfca416c7e50.jpg"
+    },
+    {
+        "id":3,
+        "name":"Kiko lipgloss",
+        "price":600.99,
+        "imgURL":"https://i.pinimg.com/564x/6a/c4/10/6ac4108116222c6596c6a3fcc9a87f20.jpg"
+    },
+    {
+        "id":4,
+        "name":"Dior palette",
+        "price":600.99,
+        "imgURL":"https://i.pinimg.com/564x/55/00/67/55006711e8c636543c774f74d5043808.jpg"
+    },
+    {
+        "id":5,
+        "name":"Rare beauty blush",
+        "price":1300.99,
+        "imgURL":"https://i.pinimg.com/564x/68/23/3c/68233cc9daee33d0ee7b837eb9f5c9ac.jpg"
+    },
+    {
+        "id":6,
+        "name":"Fenty beauty highlighter",
+        "price":4000.99,
+        "imgURL":"https://i.pinimg.com/564x/8e/b2/dc/8eb2dc584f60dcbdbd81fd4857940153.jpg"
+    },
+    {
+        "id":7,
+        "name":"Kylie  blush",
+        "price":2300.99,
+        "imgURL":"https://i.pinimg.com/564x/e8/95/51/e895511eb55423c8055535bcc83e47f0.jpg"
+    },
+    {
+        "id":8,
+        "name":"Gisou  haircare",
+        "price":5500.99,
+        "imgURL":"https://i.pinimg.com/564x/9d/71/2b/9d712b21e5c95ad3de649128701a3aab.jpg"
+    },
+    {
+        "id":9,
+        "name":"Miss Dior ",
+        "price":7500.99,
+        "imgURL":"https://i.pinimg.com/564x/5d/c7/31/5dc731e9a31c9bd93c9ce41880016a87.jpg"
+    },
+    {
+        "id":10,
+        "name":" Dior lipoil ",
+        "price":2200.99,
+        "imgURL":"https://i.pinimg.com/564x/66/ff/36/66ff36e99258ba4ccfe738c370b64d56.jpg"
+    }
+]
